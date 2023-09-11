@@ -1,0 +1,10 @@
+C:\Users\Shehan\source\repos\renewacademic\renewacademic\bin\Debug\renewacademic.exe.config
+C:\Users\Shehan\source\repos\renewacademic\renewacademic\bin\Debug\renewacademic.exe
+C:\Users\Shehan\source\repos\renewacademic\renewacademic\bin\Debug\renewacademic.pdb
+C:\Users\Shehan\source\repos\renewacademic\renewacademic\obj\Debug\renewacademic.csproj.AssemblyReference.cache
+C:\Users\Shehan\source\repos\renewacademic\renewacademic\obj\Debug\renewacademic.Form1.resources
+C:\Users\Shehan\source\repos\renewacademic\renewacademic\obj\Debug\renewacademic.Properties.Resources.resources
+C:\Users\Shehan\source\repos\renewacademic\renewacademic\obj\Debug\renewacademic.csproj.GenerateResource.cache
+C:\Users\Shehan\source\repos\renewacademic\renewacademic\obj\Debug\renewacademic.csproj.CoreCompileInputs.cache
+C:\Users\Shehan\source\repos\renewacademic\renewacademic\obj\Debug\renewacademic.exe
+C:\Users\Shehan\source\repos\renewacademic\renewacademic\obj\Debug\renewacademic.pdb
